@@ -1,0 +1,42 @@
+2024-04-06 07:32:51,215:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:32:51,216:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:32:51,219:INFO: * Restarting with stat
+2024-04-06 07:32:52,631:WARNING: * Debugger is active!
+2024-04-06 07:32:52,636:INFO: * Debugger PIN: 267-826-454
+2024-04-06 08:05:28,204:INFO: * Detected change in 'c:\\Users\\ABEDOYA\\Documents\\GitHub\\taller-presencial-Alebedoyacat\\src\\6a_api_client\\client_example.py', reloading
+2024-04-06 08:05:28,457:INFO: * Restarting with stat
+2024-04-06 08:05:32,560:WARNING: * Debugger is active!
+2024-04-06 08:05:32,563:INFO: * Debugger PIN: 267-826-454
+2024-04-06 08:07:09,813:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:07:15,009:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:07:15,011:INFO:127.0.0.1 - - [06/Apr/2024 08:07:15] "POST / HTTP/1.1" 200 -
+2024-04-06 08:22:59,527:INFO: * Detected change in 'c:\\Users\\ABEDOYA\\Documents\\GitHub\\taller-presencial-Alebedoyacat\\src\\6a_api_client\\client_example.py', reloading
+2024-04-06 08:22:59,907:INFO: * Restarting with stat
+2024-04-06 08:23:02,476:WARNING: * Debugger is active!
+2024-04-06 08:23:02,481:INFO: * Debugger PIN: 267-826-454
+2024-04-06 08:23:52,457:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:23:55,277:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:23:55,278:INFO:127.0.0.1 - - [06/Apr/2024 08:23:55] "POST / HTTP/1.1" 200 -
+2024-04-06 09:22:52,339:INFO: * Detected change in 'c:\\Users\\ABEDOYA\\Documents\\GitHub\\taller-presencial-Alebedoyacat\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:22:52,760:INFO: * Restarting with stat
+2024-04-06 09:22:54,605:WARNING: * Debugger is active!
+2024-04-06 09:22:54,611:INFO: * Debugger PIN: 267-826-454
+2024-04-06 09:26:02,085:INFO: * Detected change in 'c:\\Users\\ABEDOYA\\Documents\\GitHub\\taller-presencial-Alebedoyacat\\src\\6a_api_client\\app.py', reloading
+2024-04-06 09:26:02,194:INFO: * Restarting with stat
+2024-04-06 09:26:03,068:WARNING: * Debugger is active!
+2024-04-06 09:26:03,072:INFO: * Debugger PIN: 267-826-454
+2024-04-06 09:33:29,647:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:33:29,647:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:33:29,648:INFO: * Restarting with stat
+2024-04-06 09:33:30,533:WARNING: * Debugger is active!
+2024-04-06 09:33:30,536:INFO: * Debugger PIN: 267-826-454
+2024-04-06 09:34:23,253:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 09:34:25,428:INFO:Prediction: [1605832.10562042]
+2024-04-06 09:34:25,430:INFO:127.0.0.1 - - [06/Apr/2024 09:34:25] "POST / HTTP/1.1" 200 -
+2024-04-06 09:35:04,802:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 09:35:04,805:INFO:Prediction: [1605832.10562042]
+2024-04-06 09:35:04,805:INFO:127.0.0.1 - - [06/Apr/2024 09:35:04] "POST / HTTP/1.1" 200 -
+2024-04-06 09:43:17,422:INFO:127.0.0.1 - - [06/Apr/2024 09:43:17] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 09:43:17,580:INFO:127.0.0.1 - - [06/Apr/2024 09:43:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
